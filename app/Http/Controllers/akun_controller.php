@@ -10,6 +10,7 @@ use Illuminate\Support\Facades\Hash;
 
 class akun_controller extends Controller
 {
+    //epi
     /**
      * Display a listing of the resource.
      *
