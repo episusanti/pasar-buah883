@@ -10,7 +10,7 @@ use Illuminate\Support\Facades\DB;
 
 class mutasi_controller extends Controller
 {
-    //gas aja 
+    //gas aja brokk
     /**
      * Display a listing of the resource.
      *
